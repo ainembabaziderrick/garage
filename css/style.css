@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+    padding-top: 15px;
+}
+
+#permission{
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.moduleFunc{
+    text-align: center;
+    border: 1px solid #c1c1c1;
+    cursor: pointer;
+}
+.permission{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.permissionActive{
+    background: #f685a1;
+    color: #fff;
+    border: 1px solid #de2855;
+}
